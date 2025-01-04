@@ -1,7 +1,7 @@
 
 <h1 align="center">LibreChat Instance App</h1>
 
-*******
+********
 
 
 ## About
